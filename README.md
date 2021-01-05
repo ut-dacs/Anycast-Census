@@ -39,6 +39,15 @@ The paper descibing MAnycast² is available here [PDF](https://www.caida.org/pub
 }
 ```
 ## Dataset
+We improved our census by deploying MAnycast² on the SIDN Anycast network (20 nodes, geographical distributed).
+In the new census of Jan 2021, we solved most of the incorrect classification cases described in the paper 
+(route flips, preferred routes with large operators).
+
+
+We integrated iGreedy as the second step of validation (and use it for enumeration and geolocation).
+We performed iGreedy measurements with a set of 500 Ripe ATLAS probes  equally geographically distributed (200 Km of minimum distances between them)
+
+
 |Date       |          Dataset |  # /24 Anycast|
 |-----------|------------------|---------------|
 |Jan 2021   |    [Jan 2021]()  |            N/A|
