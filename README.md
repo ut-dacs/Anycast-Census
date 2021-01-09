@@ -1,9 +1,18 @@
 # MAnycast Anycast Census Data Repository
 This repository contains the dataset of the Anycast Census (detected /24 Anycast Prefixes), discovered using MAnycast2 and validated with [iGreedy](https://anycast.telecom-paristech.fr/dataset/).
 
-<img style="float: center;" src="images/ut.jpg?raw=true">
-<img style="float: center;" src="images/caida.png?raw=true">
-<img style="float: center;" src="images/SIDNlabs_Logo.png?raw=true">
+<div>
+   <table width="100%" height="100%" align="center" valign="center">
+   <tr><td>
+<img style="float: center;" src="images/ut.jpg?raw=true"/>
+   </td><td>
+<img style="float: center;" src="images/caida.png?raw=true"/>
+   </td><td>
+<img style="float: center;" src="images/SIDNlabs_Logo.png?raw=true"/>
+   </td></tr>
+   </table>
+</div>
+
 
 ## Introduction
 - Since its introduction in 1993, anycast addressing [RFC1546](https://tools.ietf.org/html/rfc1546) has become a fundamental mechanism to increase the  resilience and performance of Internet services.
