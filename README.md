@@ -1,5 +1,10 @@
 # MAnycast Anycast Census Data Repository
 This repository contains the dataset of the Anycast Census (detected /24 Anycast Prefixes), discovered using MAnycast2 and validated with [iGreedy](https://anycast.telecom-paristech.fr/dataset/).
+
+<img style="float: center;" src="images/ut.jpg?raw=true">
+<img style="float: center;" src="images/caida.png?raw=true">
+<img style="float: center;" src="images/SIDNlabs_Logo.png?raw=true">
+
 ## Introduction
 - Since its introduction in 1993, anycast addressing [RFC1546](https://tools.ietf.org/html/rfc1546) has become a fundamental mechanism to increase the  resilience and performance of Internet services.
 - Anycast has been adopted by several cloud providers, Content Delivery Networks (CDNs), and DDoS protection services, among others.
@@ -30,7 +35,7 @@ The paper descibing MAnycast2 is available here [PDF](https://tools.ietf.org/htm
 |Feb 2021   |    [Feb 2021]()  |            N/A|
 
 ## Terms of Use
-If you make use of any of the open access data from the OpenINTEL project,
+If you make use of any of the open access data from the MAnycast2 project,
 you must acknowledge use of this data by including the following attribution
 in any document, web page or other communication:
 ```
@@ -39,7 +44,7 @@ in any document, web page or other communication:
 Twente, SIDN, and CAIDA."
 ```
 
-Furthermore, if you use open access data from the OpenINTEL project for
+Furthermore, if you use open access data from the MAnycast2 project for
 research that is published in a scientific paper, poster or other peer
 reviewed content, you must cite the following paper as describing the
 method through which the data has been collected:
