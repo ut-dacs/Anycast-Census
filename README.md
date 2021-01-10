@@ -20,7 +20,7 @@ This repository contains the dataset of the Anycast Census (detected /24 Anycast
 - In a collaboration between UTwente, CAIDA, and SIDN, we proposed a new measurement and inference technique, called MAnycast², which relies on an anycast testbed to efficiently detect anycast prefixes.
 - The idea behind MAnycast² is quite simple: We send ICMP echo-requests with our anycast IP address as a source, from all of the anycast nodes in our testbed. The traffic of the ICMP echo-responses to the anycast IP will be then routed back on a single node, if the target is unicast and on multiple nodes, in case the target is anycast.
 ## Paper
-The paper descibing MAnycast² is available here [PDF](https://tools.ietf.org/html/rfc1546). Reference:
+The paper descibing MAnycast² is available here [PDF](https://www.caida.org/publications/papers/2020/manycast2/manycast2.pdf). Reference:
 ```
 @inproceedings{10.1145/3419394.3423646,
       author = {Sommese, Raffaele and Bertholdo, Leandro and Akiwate, Gautam and Jonker, Mattijs and van Rijswijk-Deij, Roland and Dainotti, Alberto and Claffy, KC and Sperotto, Anna},
