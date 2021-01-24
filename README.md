@@ -41,7 +41,7 @@ The paper descibing MAnycast² is available here [PDF](https://www.caida.org/pub
 ## Dataset
 |Date       |          Dataset |  # /24 Anycast|
 |-----------|------------------|---------------|
-|Feb 2021   |    [Feb 2021]()  |            N/A|
+|Jan 2021   |    [Jan 2021]()  |            N/A|
 
 ## Terms of Use
 If you make use of any of the open access data from the MAnycast² project,
