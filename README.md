@@ -51,6 +51,7 @@ We performed iGreedy measurements with a set of 500 Ripe ATLAS probes  equally g
 |Date       |          Dataset |  # /24 Anycast|
 |-----------|------------------|---------------|
 |Jan 2021   |    [Jan 2021](dataset/jan2021.json)  |           9999|
+|Apr 2021   |    [Apr 2021](dataset/apr2021.json)  |           8803|
 
 ## Terms of Use
 If you make use of any of the open access data from the MAnycast² project,
