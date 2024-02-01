@@ -45,7 +45,7 @@ In the new census of Jan 2021, we solved most of the incorrect classification ca
 
 
 We integrated iGreedy as the second step of validation (and use it for enumeration and geolocation).
-We performed iGreedy measurements with a set of 500 Ripe ATLAS probes  equally geographically distributed (200 Km of minimum distances between them)
+We performed iGreedy measurements with a set of 500 Ripe ATLAS probes equally geographically distributed (200 Km of minimum distances between them)
 
 
 |Date       |          Dataset |  # /24 Anycast|
@@ -55,7 +55,11 @@ We performed iGreedy measurements with a set of 500 Ripe ATLAS probes  equally g
 |Jul 2021   |    [Jul 2021](dataset/jul2021.json)  |           9567|
 |Oct 2021   |    [Oct 2021](dataset/oct2021.json)  |           9208|
 |Jan 2022   |    [Jan 2022](dataset/jan2022.json)  |           8262|
+|Nov 2023   |    [Nov 2023](dataset/nov2023.csv)   |          12071|
 
+### Disclaimer
+The Nov 2023 dataset contains only the anycast /24 prefixes (and not their enumeration and geolocation).
+The second step validation was performed using the [Ark platform](https://www.caida.org/projects/ark/) instead of Ripe ATLAS.
 
 ## Terms of Use
 If you make use of any of the open access data from the MAnycast² project,
